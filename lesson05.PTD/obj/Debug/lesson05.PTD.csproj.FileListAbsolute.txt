@@ -1,0 +1,2 @@
+C:\ASP.NET\lesson05.PTD\lesson05.PTD\obj\Debug\lesson05.PTD.csproj.AssemblyReference.cache
+C:\ASP.NET\lesson05.PTD\lesson05.PTD\obj\Debug\lesson05.PTD.csproj.CoreCompileInputs.cache
